@@ -1,0 +1,17 @@
+local number = 5
+
+if number == 5 then
+	print(number)
+
+	else if number == 10 then
+	print(number)
+
+	else if number == 15 then
+	print(number)
+
+else
+print("Nummer nicht gültig")
+
+end
+end
+end
