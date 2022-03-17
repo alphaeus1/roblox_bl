@@ -1,0 +1,13 @@
+if Number == 40 then
+
+print("Number equals 40")
+
+else if Number == 50 then
+
+print("Number equals 50")
+
+else
+
+print("Number not found")
+
+end
