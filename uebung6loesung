@@ -1,0 +1,13 @@
+local Temperatur = 40
+
+if Temperatur > 30 then
+
+Temperatur = 15
+
+	print(Temperatur)
+
+else
+
+ print (Temperatur)
+
+end
