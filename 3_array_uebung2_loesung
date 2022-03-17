@@ -1,0 +1,2 @@
+table.insert(Array2, "Johann")
+table.insert(Array3, 900)
