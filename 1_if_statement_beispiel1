@@ -1,0 +1,5 @@
+if KuchenEssen == true then
+print ("Essen wir den Kuchen ")
+else
+print ("Essen wir den Kuchen nicht")
+end
