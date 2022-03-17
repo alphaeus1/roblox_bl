@@ -1,0 +1,3 @@
+Local Array1 = {"index1", "index2", "index3", "index4"}
+local Array2 = {"Maria", "Peter", "Sandra", "Kasper"}
+local Array3 = {500, 19.56, 2000, 67.5899, 100, 60, 30, 80}
