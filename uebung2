@@ -1,3 +1,7 @@
+-- Braucht jetzt nicht gleich 10 und schreibt es um. Der richtige code ist unten ersichtlich. Veruscht es aber zuerst alleine, bevor ihr den Code unten braucht.
+
+
+
 local Zahl = 10
 
 if Zahl ~= 10 then
