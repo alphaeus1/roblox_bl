@@ -1,0 +1,11 @@
+local Zahl = 10
+
+if Zahl == 10 then
+
+print("Die Zahl ist gleich 10")
+
+else
+
+print("Die Zahl ist nicht gleich 10")
+
+end
