@@ -1,0 +1,14 @@
+local IsTrue = true
+
+if not IsTrue then
+
+print("Es stimmt")
+
+else
+
+print("Es stimmt nicht")
+
+end
+
+-- Was passiert wenn wir auf true stellen? Was passiert wenn wir auf false stellen?
+Erklärt
