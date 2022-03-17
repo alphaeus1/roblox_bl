@@ -1,0 +1,14 @@
+local Zahl1 = 10
+local Zahl2 = 20
+
+if Zahl1 == 10 and Zahl2 == 20 then
+
+print("Das stimmt")
+
+else
+
+print("Das stimmt nicht")
+
+end
+
+-- ändert nun eine oder beide Zahlen, was passiert?
