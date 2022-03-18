@@ -1,13 +1,16 @@
+local Number = 40
+
 if Number == 40 then
 
-print("Number equals 40")
+	print("Number equals 40")
 
 else if Number == 50 then
 
-print("Number equals 50")
+		print("Number equals 50")
 
-else
+	else
 
-print("Number not found")
+		print("Number not found")
 
-end
+	end
+	end
