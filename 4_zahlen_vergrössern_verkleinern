@@ -1,0 +1,6 @@
+local c = 5
+c += 1
+print(c)
+
+c -= 2
+print(c)
