@@ -1,0 +1,25 @@
+-- dieses Script funktionert nur, wenn im Part IntValue vorhanden ist mit einer Value (zum Beispiel 20) und NumberValue mit einer Value (zum Beispiel 0.1).
+
+local part = script.Parent
+local direction = 1
+local speed = part.Speed.Value
+local partStartingPosition = part.Position
+local yPosition = part.yPosition.Value
+
+local function MoveInYDirection()
+	part.Position += Vector3.new (o, speed * direction, z)
+	
+	if part.Position.Y > partStartingPosition.Y + yPosition then
+		direction = -1
+	end
+	
+	if part.Position.Y < partStartingPosition.Y then
+		direction = 1
+	end
+end
+
+while true do 
+	MoveInYDirection()
+	wait(0.01)
+	
+end
