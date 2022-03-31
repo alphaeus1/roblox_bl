@@ -6,4 +6,4 @@ local stringc = "Wochen"
 
 print(stringa.." hat "..a.." Tage. Eine "..stringb.." hat "..b.." Tage. Ein Jahr hat im gesamten "..a/b.." "..stringc..".")
 
-print(stringa, "hat", a, "Tage. Eine ", stringb, "hat", b, "Tage. Ein Jahr hat im gesamten", a/b, stringc, "." )
+print(stringa, "hat", a, "Tage. Eine", stringb, "hat", b, "Tage. Ein Jahr hat im gesamten", a/b, stringc, "." )
